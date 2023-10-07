@@ -1,7 +1,7 @@
 # maze
 sfml pathinding visualization
 
-## Instalation
+## Installation
 
 https://www.sfml-dev.org/tutorials/2.6/start-linux.php
 
